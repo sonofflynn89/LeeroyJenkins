@@ -23,7 +23,7 @@ jobs:
 
     steps:
       - checkout:
-          path: ~/byu-cs-329-lecture-notes
+          path: ~/LeeroyJenkings
 
       # Download and cache dependencies
       - restore_cache:
